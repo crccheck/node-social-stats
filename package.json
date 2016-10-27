@@ -2,6 +2,9 @@
   "name": "node-social-stats",
   "version": "0.1.0",
   "description": "Get standardized social statistics for any url",
+  "engines": {
+    "node": ">=4.0"
+  },
   "main": "src/module.js",
   "scripts": {
     "start": "node src/module.js",
