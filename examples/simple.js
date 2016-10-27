@@ -1,6 +1,6 @@
 "use strict";
 
-var Social = require('../module');
+var Social = require('../lib/module');
 
 var stats = Social.all('http://www.vogue.com/13368193/jennifer-lawrence-december-2015-cover-hunger-games/');
 
